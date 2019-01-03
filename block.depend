@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1544361731 source:c:\users\lynxh\desktop\sudoku\daniel\main.cpp
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<time.h>
+	<cstdio>
+	<math.h>
+
